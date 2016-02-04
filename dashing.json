@@ -1,0 +1,15 @@
+{
+    "name": "torch",
+    "package": "torch",
+    "selectors": {
+        ".markdown-body h3": "Function",
+        ".markdown-body h2": {
+					"type": "Function",
+					"matchpath": "nn-.*\\.html"
+				},
+        ".markdown-body h1": "Package"
+    },
+    "ignore": ["image Package Reference Manual"],
+    "allowJS": true,
+    "icon32x32": "icon.png"
+}
