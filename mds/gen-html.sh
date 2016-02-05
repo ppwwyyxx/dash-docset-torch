@@ -10,7 +10,6 @@ function work {
 	git clone https://github.com/torch/"$1".git --depth 1 || true
 
 	for i in $1/doc/*.md; do
-		chmod -x $i				# some docs are executable, ugly
 		cp -vn $i ./$1-`basename $i`
 	done
 }
