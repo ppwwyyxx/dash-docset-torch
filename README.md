@@ -11,7 +11,7 @@ You can download the latest release [here](https://github.com/ppwwyyxx/dash-docs
 + `./mds/gen-html.sh`
 + `cd html && dashing build` will give you a `torch.docset` folder.
 
-Right now it only roughly parses from the markdown documentation is torch repo, naively by its header level.
+For now it only roughly parses the markdown documentation in torch repo, naively by its header level.
 
 ![screenshot](/screenshot.png)
 
