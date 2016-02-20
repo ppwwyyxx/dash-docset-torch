@@ -1,7 +1,7 @@
 
 # dash-docset-torch
 Some scripts to generate [dash](https://kapeli.com/dash)/[zeal](https://zealdocs.org/)
-docset for [torch](http://torch.ch).
+docset for [torch](http://torch.ch), including nn, image, optim, paths package.
 
 You can download the latest release [here](https://github.com/ppwwyyxx/dash-docset-torch/releases).
 
