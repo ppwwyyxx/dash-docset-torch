@@ -11,5 +11,6 @@
     },
     "ignore": ["image Package Reference Manual"],
     "allowJS": true,
-    "icon32x32": "icon.png"
+    "icon32x32": "icon.png",
+    "index": "torch7-index.html"
 }
